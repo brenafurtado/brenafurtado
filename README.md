@@ -1,8 +1,6 @@
-Olá! :blush:
-<br>
-<br>
-Sou a Brena Furtado, estou estudando programação através do DevClub e Udemy para ser uma Desenvolvedora Full Stack.
-<br>
+<h2>Olá! :blush:</h2>
+
+<h3>Sou a Brena Furtado, estou estudando programação através do DevClub e Udemy para ser uma Desenvolvedora Full Stack.</h3>
 <br>
 
 Atualmente aprendendo e criando projetos com:
@@ -16,7 +14,7 @@ Iniciando os estudos com:
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
 <br>
-
+<br>
 ![Brena Furtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenafurtado&show_icons=true&theme=transparent)
 <br>
 <br>
