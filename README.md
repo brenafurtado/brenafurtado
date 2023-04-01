@@ -15,7 +15,8 @@ Iniciando os estudos com:
 <br>
 <br>
 <br>
-![Brena Furtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenafurtado&hide=contribs,prs)![Brena Furtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenafurtado&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenafurtado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Brena Furtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenafurtado&show_icons=true&theme=transparent)
 <br>
 <br>
 <br>
