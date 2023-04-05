@@ -1,3 +1,4 @@
+<div align="center">
 <h2>Olá! :blush:</h2>
 
 <h3>Sou a Brena Furtado, estou estudando programação através do DevClub e Udemy para ser uma Desenvolvedora Full Stack.</h3>
@@ -16,13 +17,13 @@ Iniciando os estudos com:
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenafurtado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Brena Furtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenafurtado&show_icons=true&theme=transparent)
 <br>
 <br>
 <br>
-Contato:
+Connect with me:
 
 <a href="https://www.instagram.com/bre.furtado/"> <img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" width=40px> </a>
+</div>
 
 
 
